@@ -6,23 +6,23 @@
     background-color: gray;
     text-align: center;
     padding: 2em;
-    margin: 0 552px;
+    margin: 0 312px;
 }
 .desk{
-    width: 280px;
-    margin: 20px 10px;
+    width: 250px;
+    margin: 20px 0;
     border-radius: 50%;
-    border: 20px solid rgb(71, 71, 71);
+    border: 15px solid rgb(71, 71, 71);
 }
 .logo{
-    width: 280px;
+    width: 250px;
     margin: 20px 80px;
     border-radius: 50%;
-    border: 20px solid rgb(71,71,71);
+    border: 15px solid rgb(71,71,71);
 }
 .person{
-    width: 280px;
-    margin: 20px 10px;
+    width: 250px;
+    margin: 20px 0;
     border-radius: 50%;
-    border: 20px solid rgb(71, 71, 71);
+    border: 15px solid rgb(71, 71, 71);
 }
