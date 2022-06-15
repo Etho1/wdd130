@@ -88,7 +88,7 @@ nav a:hover{
     border-radius: 5px;
 }
 .book:hover{
-    color: black;
+    color: white;
     background-color: #023E8A;
 }
 .join:hover{
@@ -118,6 +118,7 @@ nav a:hover{
     grid-column: 6/10;
     grid-row: 6/7;
     box-shadow: 5px 5px 10px #0077B6;
+    border-radius: 20px;
 }
 footer{
     background-color: #0077B6;
@@ -192,6 +193,13 @@ main section img{
     grid-column: 2/7;
     grid-row: 5/8;
     box-shadow: 5px 5px 10px #0077B6;
+    border-radius: 30px;
+}
+.icon2{
+    border-radius: 20%;
+}
+.book{
+    color: black;
 }
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
