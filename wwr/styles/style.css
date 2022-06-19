@@ -72,7 +72,8 @@ header{
     color: rgb(255, 255, 255);
     font-family:var(--heading-font);
     font-size: 2em;
-    margin-top: 10px;
+    margin-top: 30px;
+    margin-bottom: -20px;
 }
 nav a:hover{
     color: black;
@@ -123,7 +124,7 @@ nav a:hover{
 footer{
     background-color: #0077B6;
     padding: 25px 50px;
-    margin-top: 200px;
+    /* margin-top: 200px; */
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -138,7 +139,7 @@ footer a{
 }
 footer a:hover{
     text-decoration: underline;
-    color: black;
+    color: white;
 }
 .logo{
     width: 80px;
@@ -160,6 +161,7 @@ footer .social{
     border: 10px solid #0096C7;
     transition: transform .5s;
     box-shadow: 5px 5px 10px #0077B6;
+    border-radius: 50px;
 }
 .card-img:hover{
     opacity: .6;
@@ -201,6 +203,9 @@ main section img{
 .book{
     color: black;
 }
+.fa-solid fa-campground{
+    font-size: 2em;
+}
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
@@ -238,7 +243,7 @@ main section img{
         display: block;
         margin: 0 auto;
     }
-    footer {
-        margin-top: 25px;
+    footer{
+        margin-top: 50px;
     }
 }
