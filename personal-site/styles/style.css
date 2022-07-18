@@ -246,7 +246,12 @@ border-radius: 50px;
   align-self: center;
 }
 #space1{
-  height: 100px;
+  /* height: 100px; */
+  text-align: center;
+  align-self: center;
+  background-color: #8D99AE;
+  margin: 0 42% 0 42%;
+  border-radius: 20px;
 }
 #space2{
   height: 100px;
