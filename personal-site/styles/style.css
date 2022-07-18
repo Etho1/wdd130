@@ -206,7 +206,7 @@ color: #EDF2F4;
 .p3-txt{
   font-size: 1.5em;
   color: #EDF2F4;
-  letter-spacing: 1%;
+  letter-spacing: .5px;
 }
 #hero-msg-p3{
   grid-column: 2/5;
